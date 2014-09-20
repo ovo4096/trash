@@ -1,0 +1,10 @@
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.csprojResolveAssemblyReference.cache
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\SAMPServerQuery\bin\Debug\SAMPServerQuery.dll
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\SAMPServerQuery\bin\Debug\SAMPServerQuery.pdb
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.dll
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.pdb
+D:\My Program\SAMPServerQuery\SAMPServerQuery\bin\Debug\SAMPServerQuery.dll
+D:\My Program\SAMPServerQuery\SAMPServerQuery\bin\Debug\SAMPServerQuery.pdb
+D:\My Program\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.csprojResolveAssemblyReference.cache
+D:\My Program\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.dll
+D:\My Program\SAMPServerQuery\SAMPServerQuery\obj\Debug\SAMPServerQuery.pdb

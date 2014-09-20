@@ -1,0 +1,16 @@
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\bin\Debug\SAMPServerQuery.dll
+C:\Users\XQY\documents\visual studio 2012\Projects\SAMPServerQuery\ConsoleTest\bin\Debug\SAMPServerQuery.pdb
+D:\My Program\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+D:\My Program\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\My Program\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.pdb
+D:\My Program\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\My Program\SAMPServerQuery\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\My Program\SAMPServerQuery\ConsoleTest\bin\Debug\SAMPServerQuery.dll
+D:\My Program\SAMPServerQuery\ConsoleTest\bin\Debug\SAMPServerQuery.pdb
+D:\My Program\SAMPServerQuery\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache

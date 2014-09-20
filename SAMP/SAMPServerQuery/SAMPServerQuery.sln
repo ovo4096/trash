@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPServerQuery", "SAMPServerQuery\SAMPServerQuery.csproj", "{E8347B22-15CD-432B-84CA-78A25A5D61BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{CBE51767-40D2-4BF2-AB4B-41455D053A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8347B22-15CD-432B-84CA-78A25A5D61BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8347B22-15CD-432B-84CA-78A25A5D61BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8347B22-15CD-432B-84CA-78A25A5D61BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8347B22-15CD-432B-84CA-78A25A5D61BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE51767-40D2-4BF2-AB4B-41455D053A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE51767-40D2-4BF2-AB4B-41455D053A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE51767-40D2-4BF2-AB4B-41455D053A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE51767-40D2-4BF2-AB4B-41455D053A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
